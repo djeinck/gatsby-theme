@@ -18,9 +18,9 @@ module.exports = function themeConfig({
       {
         resolve: 'gatsby-plugin-manifest',
         options: {
-          name: `Dustin Schau's Blog`,
-          description: 'The blog of the developer, Dustin Schau',
-          short_name: 'DSchau Blog',
+          name: `Dillon Einck's Blog`,
+          description: 'The blog of the developer, Dillon Einck',
+          short_name: 'Djeinck Blog',
           background_color: 'white',
           theme_color: '#002635',
           orientation: 'portrait',

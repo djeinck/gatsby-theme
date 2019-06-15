@@ -1,8 +1,8 @@
 {
-  "name": "@dschau/gatsby-theme-blog",
-  "description": "The theme for blog.dustinschau.com",
+  "name": "@djeinck/gatsby-theme",
+  "description": "The theme for djeinck.com",
   "version": "0.2.0",
-  "author": "Dustin Schau <dustinschau@gmail.com> (https://blog.dustinschau.com)",
+  "author": "Dillon Einck",
   "dependencies": {
     "@dschau/gatsby-theme-utils": "^0.0.3",
     "@dschau/particles.js": "2.0.0",
