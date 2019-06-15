@@ -1,7 +1,7 @@
 {
   "name": "@djeinck/gatsby-theme",
   "description": "The theme for djeinck.com",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Dillon Einck",
   "dependencies": {
     "@dschau/gatsby-theme-utils": "^0.0.3",

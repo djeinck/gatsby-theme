@@ -60,10 +60,10 @@ export default function About({ image }) {
       )}
       <Details>
         <Name>
-          Dustin <Last>Schau</Last>
+          Dillon <Last>Einck</Last>
         </Name>
         <Description>
-          Front-end development is my passion, and I am incredibly lucky to be
+          Software development is my passion, and I am incredibly lucky to be
           able to <strong>love</strong> what I do each and every day.
         </Description>
       </Details>

@@ -11,7 +11,7 @@ import { animateBackground, animateShake } from '../style/animations'
 const Header = styled.header`
   height: ${props => (props.isPost ? '15vh' : '25vh')};
   background-color: #ffa81f;
-  color: blue;
+  color: gray;
   position: fixed;
   top: 0;
   right: 0;
@@ -133,7 +133,7 @@ class BlogHeader extends Component {
               {showBackButton && (
                 <BackContainer>
                   <NavigationButton
-                    to="https://www.dustinschau.com"
+                    to="https://www.google.com"
                     absolute
                     prev
                     target="_self"
